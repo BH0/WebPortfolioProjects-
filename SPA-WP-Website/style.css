@@ -1,0 +1,29 @@
+/*
+Theme Name: rgh
+Author: BH0
+Description: Custom theme
+Version: 0.0.1
+Tags: sass
+*/
+.navigation {
+  text-decoration: none;
+  color: orange;
+  background-color: green; }
+
+/*
+.head-navigation { /* Header file */
+a:hover {
+  text-decoration: underlined;
+  font-size: 120%; }
+
+.footer {
+  color: purple; }
+
+.sidebar {
+  color: yellow; }
+
+.content {
+  /* Content file */
+  color: orange; }
+
+/*# sourceMappingURL=style.css.map */
